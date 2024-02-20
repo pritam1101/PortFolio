@@ -1,5 +1,5 @@
-# Responsive Portfolio Website pritam
-### Responsive Portfolio Website Pritam
+# Responsive Portfolio Website 
+### Responsive Portfolio Website 
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Contains several pages (About, Work & Contact)
