@@ -525,6 +525,7 @@ body.dark-theme{
 .work__img{
   filter: grayscale(1);
   transition: filter .5s, transform .5s;
+  height: 270px;
 }
 .work__icon{
   position: absolute;
